@@ -1,3 +1,5 @@
+package dogProject;
+
 public class Boxer extends Dog {
 
 

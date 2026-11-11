@@ -1,3 +1,5 @@
+package dogProject;
+
 public class Poodle extends Dog {
     @Override
     public void bark() {
